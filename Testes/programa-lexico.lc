@@ -1,0 +1,26 @@
+inicio teste;
+
+/* comentario */
+
+inteiro x, y;
+real z;
+logico ok;
+caractere nome;
+
+x  := 10;
+y := -20;
+z := 5.5;
+
+ok := verdadeiro;
+
+nome := "joao";
+
+escrita(x);
+
+se x <= y entao inicio
+    escrita(nome);
+fim
+
+fim
+
+
