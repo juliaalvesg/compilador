@@ -1,0 +1,5 @@
+inicio teste;
+inteiro x;
+logico b;
+x := verdadeiro;
+fim

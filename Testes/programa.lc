@@ -1,0 +1,6 @@
+inicio teste;
+inteiro x, y;
+x := 10;
+y := 20;
+escrita(x + y);
+fim
