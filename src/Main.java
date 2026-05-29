@@ -1,3 +1,4 @@
+//Grupo: Ester Gonçalves, Júlia Garcia, Filipe Rabelo e Rafaela Gonçalves
 package src;
 import java.io.IOException;
 import java.nio.file.Files;
