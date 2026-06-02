@@ -1,0 +1,4 @@
+inicio Programa;
+  inteiro x;
+  x := 5;
+fim
